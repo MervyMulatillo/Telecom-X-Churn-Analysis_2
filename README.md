@@ -1,6 +1,5 @@
-# Telecom-X-Churn-Analysis_2
 # TelecomX-Predictive-Churn-Modeling
-### Repositorio para el modelado predictivo y análisis de evasión (Churn) de Telecom X
+Repositorio para el modelado predictivo y análisis de evasión (Churn) de Telecom X
 
 ---
 
@@ -68,7 +67,7 @@ Implementar un flujo completo de Ciencia de Datos Predictiva que incluya:
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/TelecomX-Predictive-Churn-Modeling.git
+    git clone https://github.com/MervyMulatillo/Telecom-X-Churn-Analysis_2.git
     ```
 2.  **Abre el archivo `.ipynb`** en Google Colab o Jupyter Notebook.
 3.  **Asegúrate de tener instaladas las librerías necesarias:**
@@ -79,4 +78,4 @@ Implementar un flujo completo de Ciencia de Datos Predictiva que incluya:
 
 ---
 #### **Autor:** [Mervy Mulatillo Piñin]
-#### **Curso/Challenge:** Alura Latam - Challenge Data Science - Telecom X (Fase Predictiva)](https://github.com/MervyMulatillo/Telecom-X-Churn-Analysis_2/blob/main/README.md)
+#### **Curso/Challenge:** Alura Latam - Challenge Data Science - Telecom X (Fase Predictiva)](https://github.com/MervyMulatillo/Telecom-X-Churn-Analysis_2)
